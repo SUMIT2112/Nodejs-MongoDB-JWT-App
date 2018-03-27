@@ -9,7 +9,7 @@ const orderRoutes = require('./api/routes/orders');
 const userRoutes = require('./api/routes/user');
 
 // MongoDB Atlas
-// mongose.connect('mongodb+srv://gavi:gavi755@node-rest-shop-uxnpr.mongodb.net/test');
+// give data base name of mongo db
 
 
 // Local Database
